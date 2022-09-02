@@ -10,12 +10,12 @@
 - 💬 Ask me about **Django, Python**
 
 - 📫 How to reach me: **omarshokry193@gmail.com**
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omar-eid-7b2254240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-eid-7b2254240" height="30" width="40" /></a>
 </p>
-<hr>
+
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
